@@ -1,2 +1,2 @@
-# klabs
-linux kernel labs
+# BiscuitOS-Labs
+linux kernel labs on BiscuitOS
